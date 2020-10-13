@@ -2,7 +2,7 @@
   "name": "web",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://raulc27.github.io/nlw3-web",
+  "homepage":"https://raulc27.github.io/nlw3-web/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -25,7 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"yarn build",
+    "predeploy":"yarn run build",
     "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
