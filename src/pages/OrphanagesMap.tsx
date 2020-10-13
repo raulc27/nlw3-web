@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import '../styles/global.css';
+//import '../styles/global.css';
 import '../styles/pages/orphanages-map.css';
 import {FiPlus} from 'react-icons/fi';
 import mapMarkerImg from '../Images/map-marker.svg';

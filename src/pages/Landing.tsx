@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/global.css';
+//import '../styles/global.css';
 import '../styles/pages/landing.css';
 import logoImg from '../Images/Logo.svg';
 
@@ -20,6 +20,8 @@ function Landing(){
         <div className="location">
           <strong>Rio de Janeiro</strong>
           <span>Cachoeiras de Macacu</span>
+         
+
         </div>
   
         <Link to="/app" className="enter-app">

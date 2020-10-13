@@ -7,7 +7,7 @@ import OrphanagesMap from './pages/OrphanagesMap';
 function Routes(){
     return(
 
-        <BrowserRouter>
+        <BrowserRouter basename="/nlw3-web">
     <Switch>
     <Route path="/" exact component={Landing} />
         <Route path="/app" component={OrphanagesMap} />
