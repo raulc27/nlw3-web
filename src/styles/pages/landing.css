@@ -23,11 +23,14 @@ align-items:center;
     background: url('../../Images/Landing.svg') no-repeat 80% center;
 }
 
+#page-landing .content-wrapper main { max-width: 358px; }
+
+
 #page-landing .content-wrapper main h1{
     max-width:350px;
     font-size: 76px;
     font-weight: 900;
-    height:70px;
+    line-height:70px;
 }
 
 #page-landing .content-wrapper main p{
