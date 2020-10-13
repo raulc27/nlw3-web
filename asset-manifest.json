@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nlw3-web/static/css/main.9fd7b09e.chunk.css",
-    "main.js": "/nlw3-web/static/js/main.e5336377.chunk.js",
-    "main.js.map": "/nlw3-web/static/js/main.e5336377.chunk.js.map",
+    "main.js": "/nlw3-web/static/js/main.f2622dd2.chunk.js",
+    "main.js.map": "/nlw3-web/static/js/main.f2622dd2.chunk.js.map",
     "runtime-main.js": "/nlw3-web/static/js/runtime-main.672441be.js",
     "runtime-main.js.map": "/nlw3-web/static/js/runtime-main.672441be.js.map",
     "static/css/2.bcddf60d.chunk.css": "/nlw3-web/static/css/2.bcddf60d.chunk.css",
     "static/js/2.186e6eb0.chunk.js": "/nlw3-web/static/js/2.186e6eb0.chunk.js",
     "static/js/2.186e6eb0.chunk.js.map": "/nlw3-web/static/js/2.186e6eb0.chunk.js.map",
     "index.html": "/nlw3-web/index.html",
-    "precache-manifest.b6ce756df6ed51a54e3907795cd581d8.js": "/nlw3-web/precache-manifest.b6ce756df6ed51a54e3907795cd581d8.js",
+    "precache-manifest.b421c61423cd40d7cf6ad9a6b11f71cf.js": "/nlw3-web/precache-manifest.b421c61423cd40d7cf6ad9a6b11f71cf.js",
     "service-worker.js": "/nlw3-web/service-worker.js",
     "static/css/2.bcddf60d.chunk.css.map": "/nlw3-web/static/css/2.bcddf60d.chunk.css.map",
     "static/css/main.9fd7b09e.chunk.css.map": "/nlw3-web/static/css/main.9fd7b09e.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.bcddf60d.chunk.css",
     "static/js/2.186e6eb0.chunk.js",
     "static/css/main.9fd7b09e.chunk.css",
-    "static/js/main.e5336377.chunk.js"
+    "static/js/main.f2622dd2.chunk.js"
   ]
 }
