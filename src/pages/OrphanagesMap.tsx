@@ -24,7 +24,7 @@ function OrphanagesMap(){
 
        <footer>
         <strong>Rio de Janeiro</strong>
-        <span>Cachoeiras de Macacu</span>
+        <span>...</span>
        </footer>
        </aside>
         

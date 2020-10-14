@@ -19,7 +19,7 @@ function Landing(){
   
         <div className="location">
           <strong>Rio de Janeiro</strong>
-          <span>Cachoeiras de Macacu</span>
+          <span>...</span>
          
           <a href="https://github.com/raulc27/nlw3-web">
             Clique aqui para acessar o código fonte
