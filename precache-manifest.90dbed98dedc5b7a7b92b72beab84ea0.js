@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d1a8cb49d2d77f77dfeedaba534c22a",
+    "revision": "fb6ce447c064c955068111e083904068",
     "url": "/nlw3-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nlw3-web/static/css/2.bcddf60d.chunk.css"
   },
   {
-    "revision": "93efe3d4e36fd2bed191",
+    "revision": "90182612a4feab428c20",
     "url": "/nlw3-web/static/css/main.9fd7b09e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nlw3-web/static/js/2.186e6eb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "93efe3d4e36fd2bed191",
-    "url": "/nlw3-web/static/js/main.94b5aac3.chunk.js"
+    "revision": "90182612a4feab428c20",
+    "url": "/nlw3-web/static/js/main.b215ddff.chunk.js"
   },
   {
     "revision": "10c071cfb6632331f74f",
